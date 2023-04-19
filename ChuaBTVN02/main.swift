@@ -9,4 +9,11 @@ import Foundation
 
 print("Hello, World!")
 
+var x = 10
+
+if x == 10 {
+    print("10 điểm")
+} else {
+    print("0 điểm")
+}
 
